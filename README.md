@@ -1,3 +1,4 @@
 # Cypress_Calculadora
 
-Pré requisitos
+Pré requisitos:
+npm install cypress --save-dev
